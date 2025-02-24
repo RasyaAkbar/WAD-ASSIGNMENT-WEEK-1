@@ -35,7 +35,6 @@
     width: 100%; 
     display: flex; 
     justify-content: center; 
-    background-color: ; 
     padding-bottom: 16px; 
     padding-top: 16px; 
     padding-left: 16px; 
@@ -102,10 +101,6 @@
     align-items: center; 
     justify-content: center; 
     display: flex; 
-    margin-top: ; 
-    padding-top: ; 
-    padding-left: ; 
-    padding-right: ; 
     font-weight: bold; 
     font-size: 40px; 
     padding-bottom: 2px; 
@@ -1236,8 +1231,7 @@
     opacity: 100%; 
     background-color: #ffffff; 
     border-radius: 8px; 
-    margin-bottom: 20px; 
-    margin-left: ; 
+    margin-bottom: 20px;  
     margin-right: 10px; 
     padding-bottom: 16px; 
     padding-top: 16px; 
